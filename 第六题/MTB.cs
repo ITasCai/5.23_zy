@@ -14,7 +14,8 @@ namespace 第六题
         /// <summary>
         /// 山地车的独立方法，用于信息的输出
         /// </summary>
-        public void Show() {
+        public  void show()
+        {
             Console.WriteLine("骑上山地车，腰也不酸了，腿也不疼了，能参加比赛了！");
                     
         }
