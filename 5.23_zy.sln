@@ -3,7 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.23_zy", "5.23_zy\5.23_zy.csproj", "{11C9CA8E-FCA2-4883-95EE-48519CDE6578}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "第一题", "5.23_zy\第一题.csproj", "{11C9CA8E-FCA2-4883-95EE-48519CDE6578}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "第二题", "第二题\第二题.csproj", "{EA08DC4A-9756-4406-A465-38008935559B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "第三题", "第三题\第三题.csproj", "{EA9FF20F-4A00-461E-BB26-0A570AC9F579}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "第四题", "第四题\第四题.csproj", "{DF08F45F-8320-4FDC-A729-4E7FFBF4CC94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "第五题", "第五题\第五题.csproj", "{D011861D-9578-4EC2-86A4-586FD4AA6559}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "第六题", "第六题\第六题.csproj", "{EAC5EAB2-F340-426C-A1C0-5CDDE85781C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "第七题", "第七题\第七题.csproj", "{5D7CDE38-7E50-47DE-9595-F34C8E3F0880}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "第八题", "第八题\第八题.csproj", "{3F5DB4BF-EF58-4575-BCBC-424C6575C10F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +29,34 @@ Global
 		{11C9CA8E-FCA2-4883-95EE-48519CDE6578}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11C9CA8E-FCA2-4883-95EE-48519CDE6578}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11C9CA8E-FCA2-4883-95EE-48519CDE6578}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA08DC4A-9756-4406-A465-38008935559B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA08DC4A-9756-4406-A465-38008935559B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA08DC4A-9756-4406-A465-38008935559B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA08DC4A-9756-4406-A465-38008935559B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA9FF20F-4A00-461E-BB26-0A570AC9F579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA9FF20F-4A00-461E-BB26-0A570AC9F579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA9FF20F-4A00-461E-BB26-0A570AC9F579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA9FF20F-4A00-461E-BB26-0A570AC9F579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF08F45F-8320-4FDC-A729-4E7FFBF4CC94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF08F45F-8320-4FDC-A729-4E7FFBF4CC94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF08F45F-8320-4FDC-A729-4E7FFBF4CC94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF08F45F-8320-4FDC-A729-4E7FFBF4CC94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D011861D-9578-4EC2-86A4-586FD4AA6559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D011861D-9578-4EC2-86A4-586FD4AA6559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D011861D-9578-4EC2-86A4-586FD4AA6559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D011861D-9578-4EC2-86A4-586FD4AA6559}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAC5EAB2-F340-426C-A1C0-5CDDE85781C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC5EAB2-F340-426C-A1C0-5CDDE85781C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC5EAB2-F340-426C-A1C0-5CDDE85781C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC5EAB2-F340-426C-A1C0-5CDDE85781C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D7CDE38-7E50-47DE-9595-F34C8E3F0880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D7CDE38-7E50-47DE-9595-F34C8E3F0880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D7CDE38-7E50-47DE-9595-F34C8E3F0880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D7CDE38-7E50-47DE-9595-F34C8E3F0880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F5DB4BF-EF58-4575-BCBC-424C6575C10F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F5DB4BF-EF58-4575-BCBC-424C6575C10F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F5DB4BF-EF58-4575-BCBC-424C6575C10F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F5DB4BF-EF58-4575-BCBC-424C6575C10F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
