@@ -19,5 +19,12 @@ namespace 第六题
             Console.WriteLine("骑上山地车，腰也不酸了，腿也不疼了，能参加比赛了！");
                     
         }
+        /// <summary>
+        /// 调用直行车类中的加速方法
+        /// </summary>
+        public void GetBicycle() {
+            Rook r = new Bicycle();
+            r.speedUp();
+        }
     }
 }

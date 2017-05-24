@@ -19,10 +19,5 @@ namespace 第六题
             Console.WriteLine("要啥自行车？");
 
         }
-
-        public static explicit operator Bicycle(void v)
-        {
-            throw new NotImplementedException();
-        }
     }
 }
